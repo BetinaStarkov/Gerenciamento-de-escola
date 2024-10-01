@@ -1,0 +1,24 @@
+
+### **.gitignore**
+
+```gitignore
+# Ignore arquivos de backup criados por editores de texto
+*.bak
+*.tmp
+*.swp
+
+# Arquivos de log
+*.log
+
+# Credenciais e arquivos de configuração locais
+*.env
+
+# Arquivos temporários gerados por IDEs
+.vscode/
+.idea/
+
+# Arquivos de dump de banco de dados
+*.sql
+
+# Ignorar o diretório de banco de dados MySQL, caso exista
+mysql/
