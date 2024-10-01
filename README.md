@@ -39,3 +39,15 @@ Este projeto é um sistema simples para gerenciar o registro de alunos, cursos e
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/sistema-registro-alunos-notas.git
+Acesse o diretório do projeto:
+cd sistema-registro-alunos-notas
+Abra o arquivo sistema.sql e execute os comandos SQL nele contidos em um ambiente de banco de dados.
+
+Teste as funcionalidades de consulta, atualização e exclusão conforme descrito no arquivo sistema.sql.
+
+Estrutura do Projeto
+sistema.sql: Contém todo o código SQL necessário para criar o banco de dados, tabelas, inserir dados, realizar consultas, atualizações e exclusões.
+README.md: Este arquivo, que fornece informações sobre como utilizar o projeto.
+.gitignore: Define arquivos a serem ignorados no controle de versão.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias.
+
